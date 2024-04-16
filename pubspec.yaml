@@ -1,0 +1,8 @@
+name: tdd_dart
+description: Test Driven Development in Dart
+
+environment:
+  sdk: ">=3.0.0"
+
+dev_dependencies:
+  test: ^1.25.3
